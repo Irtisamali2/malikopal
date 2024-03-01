@@ -152,7 +152,7 @@ class CustomSingleTile extends StatelessWidget {
                 width: 40,
                 child: leading ??
                     CircleAvatar(
-                      backgroundColor: Color(0xFF92298D),
+                      backgroundColor: Color(0xff1164AA),
                     ),
               ),
               title: title,
@@ -1473,7 +1473,7 @@ class _CapitalPaymentHistoryCardState extends State<CapitalPaymentHistoryCard> {
                                                   ? FontWeight.bold
                                                   : FontWeight.w500,
                                               color: Color(0xff254180),
-                                              //  Color(0xFF92298D),
+                                              //  Color(0xff1164AA),
                                             ),
                                       ),
                                       Text(
@@ -1529,7 +1529,7 @@ class _CapitalPaymentHistoryCardState extends State<CapitalPaymentHistoryCard> {
                               padding: const EdgeInsets.only(left: 16.0),
                               child: CircleAvatar(
                                 backgroundColor:
-                                    Colors.red, //Color(0xff92298D),
+                                    Colors.red, //Color(0xff1164AA),
                                 backgroundImage: AssetImage(
                                   "assets/images/FandF.png",
                                 ),
@@ -1558,7 +1558,7 @@ class _CapitalPaymentHistoryCardState extends State<CapitalPaymentHistoryCard> {
                                             fontFamily: 'Montserrat',
                                             fontWeight: FontWeight.bold,
                                             color: Color(0xff254180),
-                                            //  Color(0xFF92298D),
+                                            //  Color(0xff1164AA),
                                           ),
                                     ),
                                     Row(

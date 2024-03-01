@@ -99,7 +99,7 @@ class _SettingSwitcherState extends State<SettingSwitcher> {
     return Switch(
       value: isTouchIDEnable,
       activeColor: Color(0xff245180),
-      //  Color(0xff92298D),
+      //  Color(0xff1164AA),
       onChanged: (value) {
         AuthService(ctx: context)
             .authenticateUser(
@@ -159,7 +159,7 @@ class _AppearenceState extends State<Appearence> {
     return Switch(
       value: isSwitched,
       activeColor: Color(0xff254180),
-      // Color(0xff92298D),
+      // Color(0xff1164AA),
       onChanged: (value) {
         setState(() {
           isSwitched = value;
@@ -197,7 +197,7 @@ class _GlowSettingState extends State<GlowSetting> {
     return Switch(
       value: isSwitched,
       activeColor: Color(0xff254180),
-      //  Color(0xff92298D),
+      //  Color(0xff1164AA),
       onChanged: (value) {
         setState(
           () {

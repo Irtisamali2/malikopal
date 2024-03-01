@@ -231,8 +231,8 @@ class _RollOverBottomSheetState extends State<RollOverBottomSheet>
                     begin: Alignment.topCenter,
                     end: Alignment.bottomCenter,
                     colors: [
-                      // Color(0xFF92298D),
-                      //  Color(0xFF92298D)
+                      // Color(0xff1164AA),
+                      //  Color(0xff1164AA)
                       Color(0xff1164AA),
                       Color(0xff1164AA)
                     ],
@@ -270,7 +270,7 @@ class _RollOverBottomSheetState extends State<RollOverBottomSheet>
                                   fontSize: 18.sp,
                                   fontFamily: "Montserrat",
                                   fontWeight: FontWeight.w600,
-                                  color: Colors.white),
+                                  color: Color(0xFFFFF100)),
                         ),
                       ),
                     ),
@@ -532,9 +532,9 @@ class _RollOverBottomSheetState extends State<RollOverBottomSheet>
         );
       },
       color2: Color(0xff1164AA),
-      //  Color(0xFF92298D),
+      //  Color(0xff1164AA),
       color1: Color(0xff1164AA),
-      //  Color(0xFF92298D)
+      //  Color(0xff1164AA)
     );
   }
 }

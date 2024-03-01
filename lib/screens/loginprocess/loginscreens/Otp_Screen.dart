@@ -115,7 +115,7 @@ class _OtpScreenState extends State<OtpScreen> with TickerProviderStateMixin {
                         CustomTopBar(topbartitle: ""),
                         SizedBox(height: 40.h),
                         GlowSetting(
-                          color: Color(0xff92298D).withOpacity(0.1),
+                          color: Color(0xff1164AA).withOpacity(0.1),
                           color1: Color(0xffBF40BF).withOpacity(0.7),
                           radius: size.height < 700 ? 155 : 180,
                           child: Container(

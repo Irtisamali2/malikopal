@@ -833,7 +833,7 @@ class _UpdateProfileState extends State<UpdateProfile> {
                               isBgColorWhite: false,
                               width: MediaQuery.of(context).size.width * 0.9.w,
                               color: [Color(0xff245180), Color(0xff254180)],
-                              // [Color(0xff92298D), Color(0xff92298D)],
+                              // [Color(0xff1164AA), Color(0xff1164AA)],
                             ),
                             // ),
                             SizedBox(

@@ -129,8 +129,8 @@ class _SettingScreenState extends State<SettingScreen> {
                                 // Color(0xffF6322A),
                                 Color(0xff254180),
                                 Color(0xff254180),
-                                // Color(0xff92298D),
-                                // Color(0xff92298D)
+                                // Color(0xff1164AA),
+                                // Color(0xff1164AA)
                               ],
                             ),
                           ),

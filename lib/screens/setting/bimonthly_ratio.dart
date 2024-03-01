@@ -86,7 +86,7 @@ class _BimonthlyRatioScreenState extends State<BimonthlyRatioScreen>
                         ),
                         GlowSetting(
                           color: Color(0xff254180)
-                              // Color(0xff92298D)
+                              // Color(0xff1164AA)
                               .withOpacity(0.1),
                           color1: Color(0xff1164AA)
                               //  Color(0xffBF40BF)

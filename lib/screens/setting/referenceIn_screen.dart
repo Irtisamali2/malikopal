@@ -531,7 +531,7 @@ class _ReferenceInCardsState extends State<ReferenceInCards> {
                   width: size.width,
                   decoration: BoxDecoration(
                     color: Color(0xff254180),
-                    // Color(0xff92298D),
+                    // Color(0xff1164AA),
                     borderRadius: BorderRadius.only(
                       topLeft: const Radius.circular(12.0),
                       topRight: const Radius.circular(12.0),
@@ -603,7 +603,7 @@ class _ReferenceInCardsState extends State<ReferenceInCards> {
                             width: size.width,
                             decoration: BoxDecoration(
                               color: Color(0xff254180),
-                              //  Color(0xff92298D),
+                              //  Color(0xff1164AA),
                               borderRadius: BorderRadius.only(
                                 topLeft: const Radius.circular(0.0),
                                 topRight: const Radius.circular(12.0),
@@ -739,7 +739,7 @@ class _ReferenceInCardsState extends State<ReferenceInCards> {
                               fontSize: 11.sp,
                               fontFamily: 'Montserrat',
                               color: Color(0xff254180),
-                              //  Color(0xff92298D),
+                              //  Color(0xff1164AA),
                               fontWeight: FontWeight.w400,
                             ),
                       ),
@@ -1211,9 +1211,9 @@ class Referencein extends StatelessWidget {
       this.amount_size_v2,
       this.title_size_v1,
       this.color2 = const Color(0xff254180),
-      //  const Color(0xff92298D),
+      //  const Color(0xff1164AA),
       this.bgColor = const Color(0xff254180),
-      // Color(0xff92298D),
+      // Color(0xff1164AA),
       this.titlesize_v2})
       : super(key: key);
   final String? title_v1, subtitle_v1;

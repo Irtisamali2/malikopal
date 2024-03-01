@@ -134,7 +134,7 @@ class _TransectiondetailwidgetState extends State<Transectiondetailwidget> {
                             width: double.infinity,
                             decoration: BoxDecoration(
                                 color:Color(0xff1164AA),
-                                //  Color(0xff92298D),
+                                //  Color(0xff1164AA),
                                 borderRadius: BorderRadius.only(
                                     topLeft: Radius.circular(28),
                                     topRight: Radius.circular(28))),
@@ -182,7 +182,7 @@ class _TransectiondetailwidgetState extends State<Transectiondetailwidget> {
                                                       color: model.isDarkTheme
                                                           ? Colors.white
                                                           : Color(0xff254180),
-                                                          // Color(0xFF92298D),
+                                                          // Color(0xff1164AA),
                                                       fontSize: 14.8.sp,
                                                       fontFamily: "Montserrat",
                                                       fontWeight: FontWeight.bold),
@@ -300,7 +300,7 @@ class _TransectiondetailwidgetState extends State<Transectiondetailwidget> {
                                                   color: model.isDarkTheme
                                                       ? Colors.white
                                                       : Color(0xff254180)),
-                                                      // Color(0xFF92298D)),
+                                                      // Color(0xff1164AA)),
                                         ),
                                         TextSpan(
                                           text: widget.description3 ?? "",
@@ -355,14 +355,14 @@ class _TransectiondetailwidgetState extends State<Transectiondetailwidget> {
                                           color: model.isDarkTheme
                                               ? Colors.white
                                               : Color(0xff254180),
-                                              // Color(0xFF92298D),
+                                              // Color(0xff1164AA),
                                         )
                                       : SvgPicture.asset(
                                           widget.urduDescription1 ?? '',
                                           color: model.isDarkTheme
                                               ? Colors.white
                                               : Color(0xff254180),
-                                              //  Color(0xFF92298D),
+                                              //  Color(0xff1164AA),
                                         ),
                                 ),
 
@@ -405,7 +405,7 @@ class _TransectiondetailwidgetState extends State<Transectiondetailwidget> {
                                                       color: model.isDarkTheme
                                                           ? Colors.white
                                                           : Color(0xff254180),
-                                                          //  Color(0xFF92298D),
+                                                          //  Color(0xff1164AA),
                                                       fontWeight: FontWeight.w400),
                                             ),
                                           ),
@@ -465,7 +465,7 @@ class _TransectiondetailwidgetState extends State<Transectiondetailwidget> {
                                 //                   .copyWith(
                                 //                       fontFamily: "Montserrat",
                                 //                       fontSize: 16.sp,
-                                //                       color: Color(0xff92298D),
+                                //                       color: Color(0xff1164AA),
                                 //                       fontWeight: FontWeight.w400),
                                 //             ),
                                 //           ),

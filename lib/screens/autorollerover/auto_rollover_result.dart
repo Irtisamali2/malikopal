@@ -22,7 +22,7 @@ class AutoRolloverResult extends StatelessWidget {
           style: TextStyle(
             fontWeight: FontWeight.w700,
             fontSize: 16,
-            color: Color(0xff92298D),
+            color: Color(0xff1164AA),
           ),
         ),
         elevation: 0,

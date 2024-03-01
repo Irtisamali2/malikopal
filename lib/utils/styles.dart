@@ -216,7 +216,7 @@ class Styles {
       backgroundColor: Color(0xFFF1F1F2),
       // backgroundColor: Color(0xFFCC0B00),
       dividerColor: Color(0xff254180),
-      //  Color(0xff92298D),
+      //  Color(0xff1164AA),
       cardColor: Color(0xFFFFFFFF),
       shadowColor: Colors.grey.withOpacity(0.4),
       iconTheme: IconThemeData(color: Colors.black, size: 24, opacity: 0.7),

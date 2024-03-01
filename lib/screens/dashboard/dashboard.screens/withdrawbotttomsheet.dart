@@ -255,7 +255,7 @@ class _WithDrawBottomSheetState extends State<WithDrawBottomSheet>
           child: Padding(
             padding: EdgeInsets.only(bottom: 0, left: 8.0, right: 8.0),
             child: Card(
-              color: Color(0xff1164AA), //  Color(0xFF92298D),
+              color: Color(0xff1164AA), //  Color(0xff1164AA),
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(28.0),
               ),
@@ -264,7 +264,7 @@ class _WithDrawBottomSheetState extends State<WithDrawBottomSheet>
               //   gradient: LinearGradient(
               //     begin: Alignment.topRight,
               //     end: Alignment.bottomLeft,
-              //     colors: [Color(0xFF92298D), Color(0xFF92298D)],
+              //     colors: [Color(0xff1164AA), Color(0xff1164AA)],
               //   ),
               //   borderRadius: BorderRadius.circular(28),
               // ),
@@ -576,9 +576,9 @@ class _WithDrawBottomSheetState extends State<WithDrawBottomSheet>
         );
       },
       color2: Color(0xff1164AA),
-      // Color(0xFF92298D),
+      // Color(0xff1164AA),
       color1: Color(0xff1164AA),
-      // Color(0xFF92298D),
+      // Color(0xff1164AA),
     );
   }
 }

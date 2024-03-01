@@ -303,7 +303,7 @@ class _ClosingPaymentBottomSheetState extends State<ClosingPaymentBottomSheet>
                                   fontWeight: FontWeight.w400,
                                   color: model.isDarkTheme
                                       ? Colors.white
-                                      : Color(0xFF92298D),
+                                      : Color(0xff1164AA),
                                 ),
                           ),
                         ],
@@ -319,7 +319,7 @@ class _ClosingPaymentBottomSheetState extends State<ClosingPaymentBottomSheet>
                     gradient: LinearGradient(
                       begin: Alignment.topLeft,
                       end: Alignment.bottomRight,
-                      colors: [Color(0xFF92298D), Color(0xFF92298D)],
+                      colors: [Color(0xff1164AA), Color(0xff1164AA)],
                     ),
                     borderRadius: BorderRadius.circular(28),
                   ),
@@ -408,7 +408,7 @@ class _ClosingPaymentBottomSheetState extends State<ClosingPaymentBottomSheet>
                                         fontSize: 16.sp,
                                         //fontWeight: FontWeight.normal,
                                         fontFamily: "Montserrat",
-                                        color: Color(0xFFFFF100),
+                                        color: Colors.white,
                                         fontWeight: FontWeight.bold),
                               ),
                             ],
@@ -475,7 +475,7 @@ class _ClosingPaymentBottomSheetState extends State<ClosingPaymentBottomSheet>
                                         fontSize: 16.sp,
                                         fontWeight: FontWeight.bold,
                                         fontFamily: 'Montserrat',
-                                        color: Color(0xFFFFF100),
+                                        color: Colors.white,
                                       ),
                                 ),
                               ),
@@ -707,9 +707,9 @@ class _ClosingPaymentBottomSheetState extends State<ClosingPaymentBottomSheet>
           );
         },
         color2: Color(0xff1164AA),
-        //  Color(0xFF92298D),
+        //  Color(0xff1164AA),
         color1: Color(0xff1164AA)
-        //  Color(0xFF92298D),
+        //  Color(0xff1164AA),
         );
   }
 }

@@ -910,7 +910,7 @@ class SubReferenceInBriefCard extends StatelessWidget {
               height: 35,
               width: 35,
               decoration: BoxDecoration(
-                  shape: BoxShape.circle, color: Color(0xff92298D)),
+                  shape: BoxShape.circle, color: Color(0xff1164AA)),
               child: Icon(
                 Icons.arrow_forward,
                 color: Colors.white,

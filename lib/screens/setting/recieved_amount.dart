@@ -141,14 +141,14 @@ class _RecievedAmountState extends State<RecievedAmount> {
                               ? [
                                   Color(0xff254180),
                                   Color(0xff254180)
-                                  // Color(0xff92298D),
-                                  // Color(0xff92298D)
+                                  // Color(0xff1164AA),
+                                  // Color(0xff1164AA)
                                   // Colors.black.withOpacity(0.4),
                                   // Colors.black.withOpacity(0.4),
                                 ]
                               : [
                                   Color(0xff254180)
-                                  // Color(0xff92298D)
+                                  // Color(0xff1164AA)
                                   // Color(0xFF4D5050),
                                   // Color(0xFF4D5050),
                                 ],
@@ -221,7 +221,7 @@ class _RecievedAmountState extends State<RecievedAmount> {
                                   fontFamily: 'Montserrat',
                                   fontWeight: FontWeight.w600,
                                   color: Color(0XFF254180)
-                                  //  Color(0xff92298D),
+                                  //  Color(0xff1164AA),
                                   ),
                         );
                         Amount = Const.currencyFormatWithoutDecimal
@@ -331,14 +331,14 @@ class _RecievedAmountState extends State<RecievedAmount> {
                                     fontFamily: 'Montserrat',
                                     fontWeight: FontWeight.w600,
                                     color: Color(0xff254180),
-                                    //  Color(0xff92298D),
+                                    //  Color(0xff1164AA),
                                   ),
                         );
 
                         Amount = Const.currencyFormatWithoutDecimal
                             .format(data?.FandF ?? 0);
                         child = CircleAvatar(
-                          backgroundColor: Colors.red, //Color(0xff92298D),
+                          backgroundColor: Colors.red, //Color(0xff1164AA),
                           backgroundImage:
                               AssetImage("assets/images/FandF.png"),
                           child: Center(
@@ -377,7 +377,7 @@ class _RecievedAmountState extends State<RecievedAmount> {
                                     fontFamily: 'Montserrat',
                                     fontWeight: FontWeight.w600,
                                     color: Color(0xff254180),
-                                    //  Color(0xff92298D),
+                                    //  Color(0xff1164AA),
                                   ),
                         );
                         Amount = Const.currencyFormatWithoutDecimal
@@ -487,14 +487,14 @@ class _RecievedAmountState extends State<RecievedAmount> {
                                     fontFamily: 'Montserrat',
                                     fontWeight: FontWeight.w600,
                                     color: Color(0xff254180),
-                                    //  Color(0xff92298D),
+                                    //  Color(0xff1164AA),
                                   ),
                         );
 
                         Amount = Const.currencyFormatWithoutDecimal
                             .format(data?.FandF ?? 0);
                         child = CircleAvatar(
-                          backgroundColor: Colors.red, //Color(0xff92298D),
+                          backgroundColor: Colors.red, //Color(0xff1164AA),
                           backgroundImage: AssetImage(
                             "assets/images/FandF.png",
                           ),
@@ -535,7 +535,7 @@ class _RecievedAmountState extends State<RecievedAmount> {
                                     fontFamily: 'Montserrat',
                                     fontWeight: FontWeight.w600,
                                     color: Color(0xff254180),
-                                    //  Color(0xff92298D),
+                                    //  Color(0xff1164AA),
                                   ),
                         );
                         Amount = Const.currencyFormatWithoutDecimal
@@ -543,7 +543,7 @@ class _RecievedAmountState extends State<RecievedAmount> {
                         child = CircleAvatar(
                           radius: 45.h,
                           backgroundColor: Color(0xff254180),
-                          // Color(0xff92298D),
+                          // Color(0xff1164AA),
                           child: Center(
                             child: Container(
                               height: 18.h,
@@ -589,7 +589,7 @@ class _RecievedAmountState extends State<RecievedAmount> {
                                     fontFamily: 'Montserrat',
                                     fontWeight: FontWeight.w600,
                                     color: Color(0xff254180),
-                                    //  Color(0xff92298D),
+                                    //  Color(0xff1164AA),
                                   ),
                         );
 
@@ -598,7 +598,7 @@ class _RecievedAmountState extends State<RecievedAmount> {
                         child = CircleAvatar(
                           radius: 45.h,
                           backgroundColor: Color(0xff254180),
-                          //  Color(0xff92298D),
+                          //  Color(0xff1164AA),
                           child: Center(
                             child: Container(
                               height: 18.h,
@@ -645,14 +645,14 @@ class _RecievedAmountState extends State<RecievedAmount> {
                                     fontFamily: 'Montserrat',
                                     fontWeight: FontWeight.w600,
                                     color: Color(0xff254180),
-                                    //  Color(0xff92298D),
+                                    //  Color(0xff1164AA),
                                   ),
                         );
 
                         Amount = Const.currencyFormatWithoutDecimal
                             .format(data?.FandF ?? 0);
                         child = CircleAvatar(
-                          backgroundColor: Colors.red, //Color(0xff92298D),
+                          backgroundColor: Colors.red, //Color(0xff1164AA),
                           backgroundImage:
                               AssetImage("assets/images/FandF.png"),
                           child: Center(

@@ -197,7 +197,7 @@ class _CapitalHistoryState extends State<CapitalHistory> {
                     //       width: 20.w,
                     //       child: SvgPicture.asset('assets/svg/down_arrow.svg')),
                     // ),
-                    // color_v2: Color(0xFF92298D),
+                    // color_v2: Color(0xff1164AA),
                   ),
                 ),
               ),

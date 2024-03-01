@@ -146,7 +146,7 @@ class ListBuilder extends StatelessWidget {
                 date: data[index].DateStr,
                 color: data[index].Type == "TR"
                     ? Color(0xff254180)
-                    //  Color(0xff92298D)
+                    //  Color(0xff1164AA)
                     : Color(0xFFF6921E),
                 imagePath: data[index].Type == "TR"
                     ? "assets/svg/total_transfer.svg"
@@ -226,7 +226,7 @@ class ListBuilder extends StatelessWidget {
                       ),
                     ),
                     color_v2: Color(0xff254180)
-                    //  Color(0xFF92298D),
+                    //  Color(0xff1164AA),
                     ),
               ),
               if (index == data.length - 1) Container(height: 60)

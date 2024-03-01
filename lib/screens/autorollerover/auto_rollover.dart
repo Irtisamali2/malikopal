@@ -78,7 +78,7 @@ class _AutoRollOverState extends State<AutoRollOver> {
               fontWeight: FontWeight.w700,
               fontSize: 16,
               color: Color(0xff254180)
-              // Color(0xff92298D),
+              // Color(0xff1164AA),
               ),
         ),
         elevation: 0,
@@ -119,7 +119,7 @@ class _AutoRollOverState extends State<AutoRollOver> {
                               padding: EdgeInsets.all(14),
                               decoration: BoxDecoration(
                                 color: Color(0xff254180),
-                                // Color(0xff92298D),
+                                // Color(0xff1164AA),
                                 borderRadius: BorderRadius.circular(30),
                               ),
                               child: Column(

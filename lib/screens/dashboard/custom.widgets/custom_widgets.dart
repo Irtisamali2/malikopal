@@ -610,7 +610,7 @@ class _AnimatedLongButtonState extends State<AnimatedLongButton>
                   backgroundColor: widget.isBgColorWhite == true
                       ? Colors.white
                       : Color(0xff254180),
-                  //  Color(0xff92298D),
+                  //  Color(0xff1164AA),
                   foregroundColor: widget.isBgColorWhite == false
                       ? Colors.white
                       : Color(0xFF58595B),

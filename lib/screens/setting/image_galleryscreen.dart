@@ -123,8 +123,8 @@ class _ImageGalleryScreenState extends State<ImageGalleryScreen> {
                             // Color(0xFF59F803),
                             Color(0xff254180),
                             Color(0xff254180)
-                            // Color(0xff92298D),
-                            // Color(0xff92298D)
+                            // Color(0xff1164AA),
+                            // Color(0xff1164AA)
                           ]),
                       boxShadow: [
                         BoxShadow(

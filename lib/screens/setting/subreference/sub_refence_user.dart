@@ -519,7 +519,7 @@ class _SubReferenceInCardsState extends State<SubReferenceUserCard> {
                               Theme.of(context).textTheme.bodyText2!.copyWith(
                                     fontSize: 11.sp,
                                     fontFamily: 'Montserrat',
-                                    color: Color(0xff92298D),
+                                    color: Color(0xff1164AA),
                                     fontWeight: FontWeight.w400,
                                   ),
                         ),

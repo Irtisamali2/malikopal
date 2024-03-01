@@ -54,7 +54,7 @@ class _CapitalWithDrawAlertState extends State<CapitalWithDrawAlert>
           child: Container(
             alignment: Alignment.bottomCenter,
             child: AnimatedAlertDialog(
-              color: [Color(0xFF92298D), Color(0xFF92298D)],
+              color: [Color(0xff1164AA), Color(0xff1164AA)],
               title: widget.title,
               description: widget.message,
             ),
@@ -198,7 +198,7 @@ class _ClosingPaymentAlertState extends State<ClosingPaymentAlert>
                     description: widget.message,
                     title: widget.title,
                     color: [Color(0xff1164AA), Color(0xff1164AA)]
-                    // [Color(0xFF92298D), Color(0xFF92298D)],
+                    // [Color(0xff1164AA), Color(0xff1164AA)],
                     ),
               ),
             ),
@@ -272,7 +272,7 @@ class _RolloverPaymentAlertState extends State<RolloverPaymentAlert>
                         description: widget.message,
                         title: widget.title,
                         color: [Color(0xff1164AA), Color(0xff1164AA)]
-                        // [Color(0xFF92298D), Color(0xFF92298D)],
+                        // [Color(0xff1164AA), Color(0xff1164AA)],
                         ),
                   ),
                 ),
@@ -359,13 +359,13 @@ class _CapitalWithDrawPendingDateAlertState
                       btn_begin: Alignment.centerLeft,
                       btn_end: Alignment.centerRight,
                       iconcolor: Color(0xff1164AA),
-                      // Color(0xFF92298D),
+                      // Color(0xff1164AA),
                       description: widget.message,
                       daterich: widget.daterich,
                       description2: widget.description2,
                       title: widget.title,
                       color: [Color(0xff1164AA), Color(0xff1164AA)]
-                      // [Color(0xFF92298D), Color(0xFF92298D)],
+                      // [Color(0xff1164AA), Color(0xff1164AA)],
                       ),
                 ),
               );

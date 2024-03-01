@@ -403,7 +403,7 @@ class _ListBuilderState extends State<ListBuilder> {
                         date: widget.data[index].date.toString(),
                         desc: widget.data[index].desc.toString(),
                         color: widget.data[index].title == "Alert"
-                            ? Color(0xFF92298D)
+                            ? Color(0xff1164AA)
                             : Color(0xFF929497),
                         // onPressed: () {
                         //   setState(() {
